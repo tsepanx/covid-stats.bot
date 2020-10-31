@@ -10,7 +10,6 @@ class MessageObject:
         self.msg_kwargs = {
             'parse_mode': 'Markdown',
             'caption': str(self),
-            'text': str(self)
         }
 
     def send(self, chat):
