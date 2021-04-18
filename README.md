@@ -6,5 +6,5 @@ Uses my **[tglib](https://github.com/tsepanx/tglib)** project as a submodule, to
 
 ### Some screenshots
 
-<img src="https://i.imgur.com/g0eGoq5.png" alt="drawing" width="400"/>
-<img src="https://i.imgur.com/aKFVQlQ.png" alt="drawing" width="400"/>
+<img src="https://i.imgur.com/g0eGoq5.png" alt="drawing" width="500"/>
+<img src="https://i.imgur.com/aKFVQlQ.png" alt="drawing" width="500"/>
